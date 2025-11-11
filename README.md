@@ -1,6 +1,6 @@
 # Hi there, I'm QLight-dev
 ### I'm currently working on:
-Nothing (right mow), I'm still Learning
+Nothing (right now), I'm still Learning...
 ### I'm currently learning:
 Well, I'm Learning Pandas, in a repo called [Learn-Pandas](https://github.com/QLight-dev/Learn-Pandas).
 ### Pronouns:
