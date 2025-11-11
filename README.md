@@ -1,12 +1,12 @@
 # Hi there, I'm QLight-dev
 ### I'm currently working on:
-Nothing, I'm Learning stuff
+Nothing (right mow), I'm still Learning
 ### I'm currently learning:
-Well, I'm Learning Pandas, in a repo called [Learn-Pandas](https://github.com/QLight-dev/Learn-Pandas)
+Well, I'm Learning Pandas, in a repo called [Learn-Pandas](https://github.com/QLight-dev/Learn-Pandas).
 ### Pronouns:
-He/Him
+He/Him.
 ### A fun fact about me:
-I like reading
+Other than coding, I like reading!
 
 <!--
 **QLight-dev/QLight-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
