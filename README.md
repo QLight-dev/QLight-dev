@@ -7,6 +7,7 @@ Well, I'm Learning Pandas, in a repo called [Learn-Pandas](https://github.com/QL
 He/Him.
 ### ⚡ Random fun fact:
 A male penguin proposes to a female penguin by giving her a pebble.
+![QLight-dev's github stats](https://github-readme-stats.vercel.app/api?username=QLight-dev&show_icons=true&theme=merko)
 <!--
 **QLight-dev/QLight-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
