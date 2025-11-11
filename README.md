@@ -1,13 +1,12 @@
-# Hi there, I'm QLight-dev
-### I'm currently working on:
+# 👋 Hello there, I'm QLight-dev
+### 🔭 I'm currently working on:
 Nothing (right now), I'm still Learning...
-### I'm currently learning:
+### 🌱 I'm currently learning:
 Well, I'm Learning Pandas, in a repo called [Learn-Pandas](https://github.com/QLight-dev/Learn-Pandas).
-### Pronouns:
+### 😄 Pronouns:
 He/Him.
-### A fun fact about me:
-Other than coding, I like reading!
-
+### ⚡ Random fun fact:
+A male penguin proposes to a female penguin by giving her a pebble.
 <!--
 **QLight-dev/QLight-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
