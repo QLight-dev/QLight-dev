@@ -2,7 +2,7 @@
 ### 🔭 I'm currently working on:
 Nothing (right now), I'm still Learning...
 ### 🌱 I'm currently learning:
-Well, I'm Learning Pandas, in a repo called [Learn-Pandas](https://github.com/QLight-dev/Learn-Pandas).
+Well, I'm Learning Matplotlib, in a repo called [Learn-Matplotlib](https://github.com/QLight-dev/Learn-Matplotlib)
 ### 😄 Pronouns:
 He/Him.
 ### ⚡ Random fun fact:
