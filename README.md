@@ -2,7 +2,7 @@
 ### 🔭 I'm currently working on:
 Nothing (right now), I'm still Learning...
 ### 🌱 I'm currently learning:
-Well, I'm Learning Matplotlib, in a repo called [Learn-Matplotlib](https://github.com/QLight-dev/Learn-Matplotlib)
+I'm learning golang!
 ### 😄 Pronouns:
 He/Him.
 ### ⚡ Random fun fact:
