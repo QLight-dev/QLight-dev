@@ -8,10 +8,6 @@ He/Him.
 ### ⚡ Random fun fact:
 A male penguin proposes to a female penguin by giving her a pebble.
 
-![QLight-dev's github stats](https://github-readme-stats.vercel.app/api?username=QLight-dev&show_icons=true&theme=merko)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=QLight-dev&theme=merko)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=QLight-dev&theme=merko)
-
 <!--
 **QLight-dev/QLight-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
