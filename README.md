@@ -2,7 +2,7 @@
 
 Learning Backend Developer using Golang 🇦🇪
 
-<div align="center">
+<div align="left">
 
 ### 🛠 Developer Skills
 <img src="https://skillicons.dev/icons?i=go,git,github,md&perline=4" />
