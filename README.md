@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-Learning Backend Developer using Golang 🇦🇪
+Learning Backend Developer using Golang 
 
 <div align="left">
 
@@ -13,4 +13,9 @@ Learning Backend Developer using Golang 🇦🇪
 ### ✉️ Connect
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayazmuhammed094@gmail.com)
 
+</div>
+
+<div align="left">
+## Stats
+[![QLight-dev'a GitHub stats](https://github-readme-stats.vercel.app/api?username=QLight-dev)](https://github.com/anuraghazra/github-readme-stats)
 </div>
