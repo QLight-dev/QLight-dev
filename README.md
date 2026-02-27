@@ -8,7 +8,7 @@ Learning backend developer using Golang
 <img src="https://skillicons.dev/icons?i=go,git,github,md&perline=4" />
 
 ### 🧑‍💻 Developer environment
-<img src="https://skillicons.dev/icons?i=linux,archlinux,neovim,lua&perline=4" />
+<img src="https://skillicons.dev/icons?i=linux,arch,neovim,lua&perline=4" />
 
 ### ✉️ Connect
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayazmuhammed094@gmail.com)
