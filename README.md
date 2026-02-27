@@ -1,8 +1,16 @@
 # Hello there! 👋
-I'm a (learning) backend developer using golang.
 
-[![Devloper Skills](https://skillicons.dev/icons?i=go,md,git,github)](https://skillicons.dev)
+Learning Backend Developer using Golang 🇦🇪
 
-[![Developer Enviroment](https://skillicons.dev/icons?i=linux,arch,neovim,lua)](https://skillicons.dev)
+<div align="center">
 
-[![Unrelated To Coding](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
+### 🛠 Developer Skills
+<img src="https://skillicons.dev/icons?i=go,git,github,md&perline=4" />
+
+### 🧑‍💻 Developer Environment
+<img src="https://skillicons.dev/icons?i=linux,arch,neovim,lua&perline=4" />
+
+### ✉️ Connect
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+</div>
