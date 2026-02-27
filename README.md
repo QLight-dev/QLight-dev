@@ -15,7 +15,4 @@ Learning Backend Developer using Golang
 
 </div>
 
-<div align="left">
-## Stats
 [![QLight-dev'a GitHub stats](https://github-readme-stats.vercel.app/api?username=QLight-dev)](https://github.com/anuraghazra/github-readme-stats)
-</div>
