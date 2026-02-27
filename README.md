@@ -1,4 +1,4 @@
-# Hello there!
+# Hello there! 👋
 I'm a (learning) backend developer using golang.
 
 [![Devloper Skills](https://skillicons.dev/icons?i=go,md,git,github)](https://skillicons.dev)
