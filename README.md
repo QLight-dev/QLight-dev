@@ -14,5 +14,9 @@ Learning backend developer using Golang
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayazmuhammed094@gmail.com)
 
 </div>
+<div align="left">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QLight-dev&theme=nord_dark" width="320"/><br>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=QLight-dev&theme=nord_dark" width="320"/><br>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QLight-dev&theme=nord_dark" width="400"/>
+</div>
 
-[![QLight-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=QLight-dev&show_icons=true&theme=gruvbox&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
