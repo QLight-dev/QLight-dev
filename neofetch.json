@@ -1,0 +1,22 @@
+{
+  "image": "https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png",
+  "sections": [
+    {
+      "title": "qlight@archlinux",
+      "fields": [
+        { "key": "OS", "value": "Arch Linux" },
+        { "key": "WM", "value": "Hyprland" },
+        { "key": "Editor", "value": "Neovim" },
+        { "key": "Language", "value": "Rust" }
+      ]
+    },
+    {
+      "fields": [
+        { "key": "Repos", "value": "{{repos}}" },
+        { "key": "Stars", "value": "{{stars}}" },
+        { "key": "Commits", "value": "{{commits}}" },
+        { "key": "Uptime", "value": "{{uptime}}" }
+      ]
+    }
+  ]
+}
