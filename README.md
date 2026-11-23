@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  <img src="https://neofetch-profile.vercel.app/api?username=QLight-dev&config=https%3A%2F%2Fraw.githubusercontent.com%2FQLight-dev%2FQLight-dev%2Fmain%2Fneofetch.json" alt="Neofetch Terminal Card" width="600" />
+  <img src="https://neofetch-profile.vercel.app/api?username=QLight-dev&config=https%3A%2F%2Fraw.githubusercontent.com%2FQLight-dev%2FQLight-dev%2Fmain%2Fneofetch.json&v=2" alt="Neofetch Terminal Card" width="600" />
 </p>
 
 ---
