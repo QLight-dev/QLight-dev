@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/QLight-dev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=435&lines=%24+whoami+%E2%86%92+QLight;rust+%7C+arch+linux+%7C+neovim" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=lines=%5Bqlight%40archlinux+%7E%5D%24;I+use+neovim+btw" alt="Typing SVG" />
 </a>
 
 [![Discord](https://img.shields.io/badge/Discord-1e1e2e?style=for-the-badge&logo=discord&logoColor=cba6f7)](https://discord.com/users/qlight094)
