@@ -26,5 +26,5 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=QLight-dev&theme=catppuccin_mocha&hide_border=true" width="48%" />
-  <img src="https://monkeytype-stats.vercel.app/api?name=QLight&theme=catppuccin_mocha" width="48%" />
+  <img src="https://monkeytype-stats.vercel.app/api?username=QLight&theme=catppuccin_mocha" width="48%" />
 </p>
