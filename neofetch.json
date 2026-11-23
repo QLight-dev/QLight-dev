@@ -1,7 +1,6 @@
 {
   "image": "https://github.com/QLight-dev/QLight-dev/blob/main/IMG_1235.png?raw=true",
   "coloredImage": true,
-  "removeBackground": true,
   "backgroundColor": "#1e1e2e",
   "separatorColor": "#585b70",
   "sections": [
@@ -47,8 +46,7 @@
       {
         "left": { "key": "Followers", "value": "{{followers}}", "keyColor": "#b4befe", "valueColor": "#cdd6f4" },
         "right": { "key": "Gists", "value": "{{gists}}", "keyColor": "#74c7ec", "valueColor": "#cdd6f4" }
-      },
-      "loc"
+      }
     ]
   }
 }
