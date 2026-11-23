@@ -15,7 +15,7 @@
         { "key": "WM", "value": "Hyprland", "keyColor": "#89dceb", "valueColor": "#cdd6f4" },
         { "key": "Shell", "value": "zsh", "keyColor": "#a6e3a1", "valueColor": "#cdd6f4" },
         { "key": "Terminal", "value": "Ghostty", "keyColor": "#f9e2af", "valueColor": "#cdd6f4" },
-        { "key": "Editor", "value": "NEOVIM", "keyColor": "#fab387", "valueColor": "#cdd6f4" },
+        { "key": "Editor", "value": "neovim", "keyColor": "#fab387", "valueColor": "#cdd6f4" },
         { "key": "Language", "value": "Rust", "keyColor": "#f38ba8", "valueColor": "#cdd6f4" }
       ]
     }
